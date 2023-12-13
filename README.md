@@ -6,3 +6,9 @@ Welcome to the "Mini Projects" repository! This collection of Python mini projec
 [![GitHub issues](https://img.shields.io/github/issues/rohit1817/mini_projects)](https://github.com/rohit1817/mini_projects/issues)
 
 
+[![GitHub issues](https://img.shields.io/github/issues/rohit1817/mini_projects)](https://github.com/rohit1817/mini_projects/issues)
+[![GitHub forks](https://img.shields.io/github/forks/rohit1817/mini_projects)](https://github.com/rohit1817/mini_projects/network/members)
+[![GitHub Repo stars](https://img.shields.io/github/stars/rohit1817/mini_projects)](https://github.com/rohit1817/mini_projects/stargazers)
+[![GitHub contributors](https://img.shields.io/github/contributors/rohit1817/mini_projects)](https://github.com/rohit1817/mini_projects/graphs/contributors)
+
+
